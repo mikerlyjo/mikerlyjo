@@ -2,7 +2,7 @@
 - 👀 I’m interested in biostatistic and bioinformatics
 - 🌱 I’m currently learning Python and R
 - 💞️ I’m looking to collaborate on python programming
-- 📫 How to reach me ...
+- 📫 How to reach me micmisco@gmail.com
 
 <!---
 mikerlyjo/mikerlyjo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
