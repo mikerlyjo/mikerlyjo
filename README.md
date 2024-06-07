@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mikerlyjo
-- 👀 I’m interested in statistics and mschine learning
+- 👀 I’m interested in statistics and machine learning
 - 🌱 I’m currently learning Python and R
 - 💞️ I’m looking to collaborate on python programming
 - 📫 How to reach me micmisco@gmail.com
